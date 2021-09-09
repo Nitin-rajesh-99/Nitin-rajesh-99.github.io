@@ -167,5 +167,12 @@ section {
 .col {
   margin: 10px;
   padding: 5px 15px;
-  background-color: #F1F5F9;
+  background-color: #f1f5f9;
+}
+.titl {
+  font-size: larger;
+  font-weight: bolder;
+}
+#footers {
+  background-color: lightgrey;
 }
